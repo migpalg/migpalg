@@ -1,11 +1,22 @@
-## Hi there 🛸, my name is Miguel
+<h1 align="center">
+  Hi there! I'm Miguel
+</h1>
+<p align="center">
+  A fullstack developer
+</p>
+
+I like write software to make the world a better place
 
 ### Skills
-React | Angular 8+ | React Native | Flutter | NodeJS | Python | Kotlin
+- Javascript (Vanilla, ES6)
+- Typescript
+- React (Redux, ReactNative, MaterialUI)
+- GraphQL
+- NodeJS
+- AWS Cloud
+- Serverless (with serverless framework nodejs)
+- Python
 
-🔭 I’m currently working as Software Developer
+🔭 Working as Senior Frontend Engenieer
 
-🌱 Currently updating personal webpage 😎 🚀
-
-### 🌟 Social media
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/migpalg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miguel-ángel-palacio-gonzález-837504182/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/migpalg)  
+🌱 Looking for awesome projects to contribute
