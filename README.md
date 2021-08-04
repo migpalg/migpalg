@@ -2,7 +2,7 @@
   Hi there! I'm Miguel
 </h1>
 <p align="center">
-  A fullstack developer
+  A fullstack developer – In a road to Software Architect
 </p>
 
 I like write software to make the world a better place
