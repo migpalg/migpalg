@@ -19,4 +19,4 @@ I like write software to make the world a better place
 
 🔭 Working as Senior Frontend Engenieer
 
-🌱 Looking for awesome projects to contribute
+🌱 Learning Go Lang
