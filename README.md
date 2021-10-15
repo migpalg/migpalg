@@ -1,11 +1,11 @@
 <h1 align="center">
-  Hi there! I'm Miguel
+  Hi there! 👋🏼 I'm Miguel
 </h1>
 <p align="center">
-  A fullstack developer – In a road to Software Architect
+  A fullstack developer
 </p>
 
-I like write software to make the world a better place
+I enjoy building new and usable things
 
 ### Skills
 - Javascript (Vanilla, ES6)
@@ -17,6 +17,4 @@ I like write software to make the world a better place
 - Serverless (with serverless framework nodejs)
 - Python
 
-🔭 Working as Senior Frontend Engenieer
-
-🌱 Learning Go Lang
+💼 Currently working as Web UI Developer
