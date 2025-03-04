@@ -20,9 +20,11 @@ I'm a Senior Software Engineer specializing in web development. With a passion f
 - LinkedIn: [migpalg](https://www.linkedin.com/in/migpalg)
 <!-- - Twitter: [@migpalgdev](https://twitter.com/yourtwitterhandle) -->
 
+<!--
 ## 📜 Blog
 
 Check out my latest articles on web development and software engineering on my [Blog](https://yourblog.com).
+-->
 
 ## 🌱 Currently Learning
 
