@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Miguel González 👋
 
 I'm a Senior Software Engineer specializing in web development. With a passion for coding and a love for creating user-friendly web applications, I have honed my skills in a variety of web technologies and frameworks.
 
